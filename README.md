@@ -1,8 +1,19 @@
 <p align="center">
-
-![1](1.png) ![2](2.png) ![3](3.png)
-
+  <img src="1.png" alt="1" />
 </p>
+
+---
+
+<p align="center">
+  <img src="2.png" alt="2" />
+</p>
+
+---
+
+<p align="center">
+  <img src="3.png" alt="3" />
+</p>
+
 
 
 # 🔍 AI Deep Research Tool
